@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "114426575273",
+    "firebase_url": "https://hkr-health.firebaseio.com",
+    "project_id": "hkr-health",
+    "storage_bucket": "hkr-health.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114426575273:android:e8b7e9cc221103b1",
+        "android_client_info": {
+          "package_name": "com.example.hkrhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114426575273-3cqm1a3schc5rcbd4khk4cnne6186lin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKHSrESdtL_NEDPtTkbh2VNLbR3KQtM_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114426575273-3cqm1a3schc5rcbd4khk4cnne6186lin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
